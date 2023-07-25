@@ -1,0 +1,35 @@
+.services {
+    background-image: url(../../../img/cachorrinho_2/cachorrinho_2.png);
+    background-color: var(--background-color-2);
+}
+
+.services_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 65vw;
+}
+
+.services h2 {
+    color: var(--letter-color-2);
+}
+
+.services  p {
+    color: var(--letter-color-2);
+}
+
+.services button {
+    background-color: var(--background-btn-services);
+    color: var(--letter-color-1);
+}
+
+@media screen and (max-width:576px) {
+    .services {
+        background-image: url(../../../img/cachorrinho_2/cachorrinho_2_mobile.png);
+    }
+
+    .services_box {
+        width: 100vw;
+    }
+}

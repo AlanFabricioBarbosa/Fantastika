@@ -1,0 +1,53 @@
+.social_media {
+    display: none;
+}
+
+@media screen and (max-width: 576px) {
+    .social_media {
+        background-color: var(--background-color-1);
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        height: 30vh;
+    }
+
+    .social_media figure {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+
+        width: 100%;
+        height: 12vh;
+    }
+
+    .social_media figure img {
+        width: 15vw;
+    }
+
+    .social_media figure h2 {
+        color: var(--letter-color-1);
+
+        font-size: 42px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 0.32px;
+    }
+
+    .social_media nav {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+
+        width: 80%;
+        height: 7vh;
+    }
+
+    .social_media nav img {
+        width: 10vw;
+        height: 4vh;
+    }
+}
