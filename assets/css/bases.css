@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Roboto+Serif:ital,wght@0,400;0,700;1,400&family=Roboto:wght@400;500&display=swap');
 
 :root {
-    --background-header: #252525;
+    --font-subtitle: 'Roboto Serif', serif;
+    --font-text: 'Roboto', sans-serif;
+
     --background-btn-services: #3A342F;
     --background-btn-about: #FFFFFF;
 
     --background-color-1: #EB4A7B;
     --background-color-2: #FFFFFF;
-
-    --font-subtitle: 'Roboto Serif', serif;
-    --font-text: 'Roboto', sans-serif;
+    --background-color-3: #252525;
 
     --letter-btn-color-1: #F4F2F3;
     --letter-btn-color-2: #000000;
