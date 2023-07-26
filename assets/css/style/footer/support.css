@@ -1,6 +1,6 @@
 .support {
-    background-color: var(--background-color-2);
-    color: var(--letter-color-3);
+    background-color: var(--background-color-secondary);
+    color: var(--letter-color-accent);
 
     display: flex;
     justify-content: space-evenly;

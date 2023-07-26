@@ -1,6 +1,6 @@
 .services {
     background-image: url(../../../img/cachorrinho_2/cachorrinho_2.png);
-    background-color: var(--background-color-2);
+    background-color: var(--background-color-secondary);
 }
 
 .services_box {
@@ -12,16 +12,16 @@
 }
 
 .services h2 {
-    color: var(--letter-color-2);
+    color: var(--letter-color-dark);
 }
 
 .services  p {
-    color: var(--letter-color-2);
+    color: var(--letter-color-dark);
 }
 
 .services button {
     background-color: var(--background-btn-services);
-    color: var(--letter-color-1);
+    color: var(--letter-btn-color-light);
 }
 
 @media screen and (max-width:576px) {

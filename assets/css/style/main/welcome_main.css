@@ -1,6 +1,6 @@
 .welcome {
     background-image: url(../../../img/cachorrinho_1/cachorrinho_1.png);
-    background-color: var(--background-color-1);
+    background-color: var(--background-color-primary);
 }
 
 .welcome div {
@@ -13,7 +13,7 @@
 }
 
 .welcome div p {
-    color: var(--letter-color-1);
+    color: var(--letter-color-white);
 
     font-size: 4rem;
     font-style: normal;

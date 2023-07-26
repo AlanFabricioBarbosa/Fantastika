@@ -1,5 +1,5 @@
 header {
-    background-color: var(--background-color-3);
+    background-color: var(--background-color-tertiary);
     display: flex;
     justify-content: space-around;
 
@@ -19,7 +19,7 @@ header figure img {
 }
 
 header h1 {
-    color: var(--letter-color-1);
+    color: var(--letter-color-white);
     font-weight: 700;
     font-size: 24px;
     line-height: normal;

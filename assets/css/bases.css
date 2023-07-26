@@ -4,20 +4,24 @@
     --font-subtitle: 'Roboto Serif', serif;
     --font-text: 'Roboto', sans-serif;
 
+    /* Background colors for buttons */
     --background-btn-services: #3A342F;
     --background-btn-about: #FFFFFF;
 
-    --background-color-1: #EB4A7B;
-    --background-color-2: #FFFFFF;
-    --background-color-3: #252525;
+    /* Background colors */
+    --background-color-primary: #EB4A7B;
+    --background-color-secondary: #FFFFFF;
+    --background-color-tertiary: #252525;
 
-    --letter-btn-color-1: #F4F2F3;
-    --letter-btn-color-2: #000000;
+    /* Letter (text) colors for buttons */
+    --letter-btn-color-light: #F4F2F3;
+    --letter-btn-color-dark: #000000;
 
-    --letter-color-1: #FFFFFF;
-    --letter-color-2: #3A342F;
-    --letter-color-3: #FD6A9A;
-}
+    /* Letter (text) colors */
+    --letter-color-white: #FFFFFF;
+    --letter-color-dark: #3A342F;
+    --letter-color-accent: #FD6A9A;
+} 
 
 a {
     text-decoration: none;
@@ -68,8 +72,8 @@ a {
     font-weight: 700;
     line-height: normal;
 
-    width: 249px;
     height: 78px;
+    width: 249px;
 }
 
 .btn:hover {

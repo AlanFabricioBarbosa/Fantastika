@@ -1,6 +1,6 @@
 .about {
     background-image: url(../../../img/cachorrinho_3/cachorrinho_3.png);
-    background-color: var(--background-color-1);
+    background-color: var(--background-color-primary);
 }
 
 .about_box {
@@ -9,16 +9,16 @@
 }
 
 .about h2 {
-    color: var(--letter-color-1);
+    color: var(--letter-color-white);
 }
 
 .about  p {
-    color: var(--letter-color-1);
+    color: var(--letter-color-white);
 }
 
 .about button {
     background-color: var(--background-btn-about);
-    color: var(--letter-color-2);
+    color: var(--letter-color-dark);
 }
 
 @media screen and (max-width:576px) {
