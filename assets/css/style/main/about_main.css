@@ -18,7 +18,7 @@
 
 .about button {
     background-color: var(--background-btn-about);
-    color: var(--letter-color-dark);
+    color: var(--letter-btn-color-dark);
 }
 
 @media screen and (max-width:576px) {
