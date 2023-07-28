@@ -10,6 +10,7 @@
 
 .dev h3 {
     color: var(--letter-color-white);
+    font-family: 'Open Sans', sans-serif;;
     font-size: 1.115rem;
     font-style: normal;
     font-weight: 700;
