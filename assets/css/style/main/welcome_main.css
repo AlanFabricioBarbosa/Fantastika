@@ -39,13 +39,11 @@
     }
 
     .welcome div {
-        border: 2px solid red;
         width: 100vw;
         height: 45vh;
     }
 
     .welcome div h2 {
-        border: 2px solid blue;
         font-size: 2.8rem;
 
         height: 27vh;
@@ -53,7 +51,6 @@
     }
 
     .welcome figure {
-        border: 2px solid green;
         height: 20vh;
         width: 40vw;
     }
