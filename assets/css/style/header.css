@@ -15,7 +15,8 @@ header figure {
 }
 
 header figure img {
-    width: 3vw; 
+    height: 6.2vh;
+    width: 3vw;
 }
 
 header h1 {
@@ -34,6 +35,11 @@ header nav {
     width: 17vw;
 }
 
+header nav img {
+    height: 5vh;
+    width: 2.5vw;
+}
+
 header nav a:hover {
     transform:  scale(120%);
 }
@@ -48,6 +54,7 @@ header nav a:hover {
     }
 
     header figure img {
+        height: auto;
         width: 15vw;
     }
 

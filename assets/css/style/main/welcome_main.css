@@ -12,7 +12,7 @@
     height: 55vh;
 }
 
-.welcome div p {
+.welcome div h2 {
     color: var(--letter-color-white);
 
     font-size: 4rem;
@@ -43,10 +43,10 @@
         height: 50vh;
     }
 
-    .welcome div p {
-        font-size: 2.3rem;
+    .welcome div h2 {
+        font-size: 2.8rem;
 
-        height: 18vh;
+        height: 20vh;
         width: 95vw;
     }
 
