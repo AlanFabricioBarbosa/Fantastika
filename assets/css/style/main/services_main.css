@@ -1,5 +1,5 @@
 .services {
-    background-image: url(../../../img/cachorrinho_2/cachorrinho_2.png);
+    background-image: url(../../../img/cachorrinho_leao/cachorrinho_leao.png);
     background-color: var(--background-color-secondary);
 }
 
@@ -26,7 +26,7 @@
 
 @media screen and (max-width:576px) {
     .services {
-        background-image: url(../../../img/cachorrinho_2/cachorrinho_2_mobile.png);
+        background-image: url(../../../img/cachorrinho_leao/cachorrinho_leao_mobile.png);
     }
 
     .services_box {

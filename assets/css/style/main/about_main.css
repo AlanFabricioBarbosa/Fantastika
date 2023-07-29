@@ -1,5 +1,5 @@
 .about {
-    background-image: url(../../../img/cachorrinho_3/cachorrinho_3.png);
+    background-image: url(../../../img/cachorrinho_feroz/cachorrinho_feroz.png);
     background-color: var(--background-color-primary);
 }
 
@@ -23,7 +23,7 @@
 
 @media screen and (max-width:576px) {
     .about {
-        background-image: url(../../../img/cachorrinho_3/cachorrinho_3_mobile.png);
+        background-image: url(../../../img/cachorrinho_feroz/cachorrinho_feroz_mobile.png);
     }
 
     .about_box {

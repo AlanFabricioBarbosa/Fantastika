@@ -1,5 +1,5 @@
 .welcome {
-    background-image: url(../../../img/cachorrinho_1/cachorrinho_1.png);
+    background-image: url(../../../img/cachorrinho_com_chapeu/cachorrinho_com_chapeu.png);
     background-color: var(--background-color-primary);
 }
 
@@ -35,7 +35,7 @@
 
 @media screen and (max-width:576px) {
     .welcome {
-        background-image: url(../../../img/cachorrinho_1/cachorrinho_1_mobile.png);
+        background-image: url(../../../img/cachorrinho_com_chapeu/cachorrinho_com_chapeu_mobile.png);
     }
 
     .welcome div {
